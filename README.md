@@ -30,10 +30,8 @@ Behind-the-Feed/
 │   ├── converter.py
 │   ├── analyzer.py
 │   ├── statistics.py
-│   └── __init__.py
-│
+│  
 ├── main.py
-├── requirements.txt
 └── README.md
 ```
 
